@@ -1,0 +1,8 @@
+spring:
+  r2dbc:
+    pool:
+      enabled: false
+
+spring.security.user:
+  name: user
+  password: user
